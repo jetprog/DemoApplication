@@ -1,6 +1,6 @@
 # *Application Flickster*
 
-this is a demo application where user can a list of movies (title, poster image, and overview) currently playing in theaters from 
+this is a demo application where user can see a list of movies (title, poster image, and overview) currently playing in theaters from 
 https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed
 the views Views are responsive for both landscape/portrait mode and fully optimized for performance with the ViewHolder pattern.
 
