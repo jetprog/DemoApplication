@@ -6,12 +6,12 @@ the views Views are responsive for both landscape/portrait mode and fully optimi
 
 The following **required** functionality is completed
 
-* [ ]  User can view a list of movies
-* [ ]  views responsive for landscape/portrait and fully optimized for performance with the ViewHolder pattern.
+* [X]  User can view a list of movies
+* [X]  views responsive for landscape/portrait and fully optimized for performance with the ViewHolder pattern.
 
 The following **optional** features are implemented:
 
-* [ ] User can **pull-to-refresh** popular stream to get the latest movies.
+* [X] User can **pull-to-refresh** popular stream to get the latest movies.
 
 
 
